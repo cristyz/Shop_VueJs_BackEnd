@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Tela",
+        "url": "https://cdn.pixabay.com/photo/2016/12/01/18/17/mobile-phone-1875813_960_720.jpg",
+        "price": 130,
+        "id": 1
+    },
+    {
+        "name": "Computador",
+        "url": "https://cdn.pixabay.com/photo/2016/11/29/08/41/apple-1868496_960_720.jpg",
+        "price": 1299.99,
+        "id": 2
+    },
+    {
+        "name": "Lapis",
+        "url": "https://cdn.pixabay.com/photo/2016/06/29/08/50/pencils-1486278_960_720.jpg",
+        "price": 5,
+        "id": 3
+    },
+    {
+        "name": "Rosa",
+        "url": "https://cdn.pixabay.com/photo/2021/05/27/14/40/anemone-6288318__340.jpg",
+        "price": 25,
+        "id": 4
+    },
+    {
+        "name": "Conjunto de Taças",
+        "url": "https://cdn.pixabay.com/photo/2017/11/22/22/55/glasses-2971680__340.jpg",
+        "price": 239.99,
+        "id": 5
+    },
+    {
+        "name": "Morangos",
+        "url": "https://cdn.pixabay.com/photo/2016/04/15/08/04/strawberry-1330459__340.jpg",
+        "price": 19,
+        "id": 6
+    },
+    {
+        "name": "Maquiagem",
+        "url": "https://cdn.pixabay.com/photo/2016/02/19/11/35/makeup-1209798__340.jpg",
+        "price": 217,
+        "id": 7
+    },
+    {
+        "name": "Amoba",
+        "url": "https://cdn.pixabay.com/photo/2016/07/03/23/18/raspberries-1495713__340.jpg",
+        "price": 12.99,
+        "id": 8
+    },
+    {
+        "name": "Batata",
+        "url": "https://cdn.pixabay.com/photo/2018/05/29/23/18/potato-3440360__340.jpg",
+        "price": 30,
+        "id": 9
+    }
+]
