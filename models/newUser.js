@@ -6,7 +6,8 @@ const Schema = mongoose.Schema
 const UsuariosSchema = new Schema({
     name: {
         type: String,
-        require: true
+        require: true,
+        unique: true
     },
     password: {
         type: String,
@@ -14,4 +15,6 @@ const UsuariosSchema = new Schema({
     }
 })
 
-mongoose.model('newuser', UsuariosSchema)
+const User = mongoose.model('newuser', UsuariosSchema)
+
+module.exports = User
